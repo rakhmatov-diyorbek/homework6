@@ -1,0 +1,17 @@
+/* external  css*/
+.text{
+    background-color: beige;
+}
+.text{
+    background-color: blueviolet;
+    font-size: 34px;
+    /* overriding css */
+    ba
+}
+.box{
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+
+
+}
